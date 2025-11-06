@@ -1,5 +1,5 @@
 # Lab19_11_6
-This program asks users to input grades and save them in grades.txt then uses try-catch to catch the exceptions.
+This program asks users to input grades and save them in grades.txt then uses try-catch to catch the exceptions. This prints out student names and grades.
 ## How to Run
 1. Open the program in your IDE.
 2. Enter students' scores.
