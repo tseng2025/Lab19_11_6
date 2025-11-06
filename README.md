@@ -1,10 +1,11 @@
 # Lab19_11_6
-This program asks users to input grades and save them in grades.txt then uses try-catch to catch the exceptions. This prints out student names and grades.
+This program asks users to input grades and save them in grades.txt then uses try-catch to catch the exceptions. 
+This prints out student names and grades.
 ## How to Run
 1. Open the program in your IDE.
 2. Enter students' scores.
   
-***Example output
+##Example output
 Enter John's grade: 85
 Enter Sara's grade: 65
 Enter Mark's grade: 95
@@ -12,10 +13,10 @@ Student Grades:
 John: 85
 Sara: 65
 Mark: 95
----
+
 My Code
 
-import java.io.FileWriter;
+"import java.io.FileWriter;
 import java.io.IOException;
 import java.util.InputMismatchException;
 import java.util.Scanner;
@@ -59,7 +60,7 @@ public class Main{
             System.out.print("File not found!");
         }
     }
-}
-***
+}"
+
 Author
 Hsiayen Tseng
