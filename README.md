@@ -3,7 +3,7 @@ This program asks users to input grades and save them in grades.txt then uses tr
 ## How to Run
 1. Open the program in your IDE.
 2. Enter students' scores.
-   
+***   
 Example output
 Enter John's grade: 85
 Enter Sara's grade: 65
@@ -13,8 +13,8 @@ Student Grades:
 John: 85
 Sara: 65
 Mark: 95
-
-----My Code
+---
+My Code
 
 import java.io.FileWriter;
 import java.io.IOException;
@@ -61,5 +61,6 @@ public class Main{
         }
     }
 }
+***
 Author
 Hsiayen Tseng
