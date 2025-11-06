@@ -3,12 +3,11 @@ This program asks users to input grades and save them in grades.txt then uses tr
 ## How to Run
 1. Open the program in your IDE.
 2. Enter students' scores.
-***   
-Example output
+  
+***Example output
 Enter John's grade: 85
 Enter Sara's grade: 65
 Enter Mark's grade: 95
-
 Student Grades: 
 John: 85
 Sara: 65
