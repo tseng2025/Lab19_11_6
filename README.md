@@ -5,7 +5,7 @@ This prints out student names and grades.
 1. Open the program in your IDE.
 2. Enter students' scores.
   
-##Example output
+## Example output
 Enter John's grade: 85
 Enter Sara's grade: 65
 Enter Mark's grade: 95
